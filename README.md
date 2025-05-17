@@ -1,4 +1,4 @@
-# azure-infra-project
+# Azure Infrastructure Project
 
 # End-to-End Azure Infrastructure Deployment with Monitoring, Logging, and Troubleshooting
 
